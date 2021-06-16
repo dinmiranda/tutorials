@@ -148,7 +148,7 @@
 
         <!-- testing -->
         <rest-assured.version>2.9.0</rest-assured.version>
-        <cucumber.version>1.2.5</cucumber.version>
+        <cucumber.version>1.2.6</cucumber.version>
         <wiremock.version>2.4.1</wiremock.version>
 
         <httpcore.version>4.4.5</httpcore.version>
