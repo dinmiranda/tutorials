@@ -270,7 +270,7 @@
 
     <properties>
         <!-- Spring -->
-        <org.springframework.version>4.3.6.RELEASE</org.springframework.version>
+        <org.springframework.version>4.3.14.RELEASE</org.springframework.version>
         <org.springframework.security.version>4.2.1.RELEASE</org.springframework.security.version>
 
         <!-- persistence -->
@@ -279,13 +279,13 @@
 
         <!-- http -->
         <httpcore.version>4.4.5</httpcore.version>
-        <httpclient.version>4.5.3</httpclient.version>
+        <httpclient.version>4.5.7</httpclient.version>
 
         <!-- various -->
         <hibernate-validator.version>5.3.3.Final</hibernate-validator.version>
         <jstl.version>1.2</jstl.version>
         <javax.servlet.version>3.1.0</javax.servlet.version>
-        <jackson.version>2.8.5</jackson.version>
+        <jackson.version>2.9.10.8</jackson.version>
 
         <!-- util -->
         <guava.version>19.0</guava.version>
