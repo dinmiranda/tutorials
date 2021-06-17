@@ -194,7 +194,7 @@
         <dependency>
             <groupId>io.specto</groupId>
             <artifactId>hoverfly-java</artifactId>
-            <version>0.8.1</version>
+            <version>0.13.0</version>
         </dependency>
         <dependency>
             <groupId>org.apache.httpcomponents</groupId>
@@ -334,7 +334,7 @@
         <dependency>
             <groupId>org.springframework</groupId>
             <artifactId>spring-web</artifactId>
-            <version>4.3.8.RELEASE</version>
+            <version>4.3.14.RELEASE</version>
         </dependency>
         <dependency>
             <groupId>net.serenity-bdd</groupId>
@@ -385,7 +385,7 @@
         <dependency>
             <groupId>org.quartz-scheduler</groupId>
             <artifactId>quartz</artifactId>
-            <version>2.3.0</version>
+            <version>2.3.2</version>
         </dependency>
         <dependency>
             <groupId>one.util</groupId>
@@ -605,7 +605,7 @@
     </repositories>
     <properties>
         <multiverse.version>0.7.0</multiverse.version>
-        <cglib.version>3.2.4</cglib.version>
+        <cglib.version>3.2.11</cglib.version>
         <commons-lang.version>3.6</commons-lang.version>
         <commons-text.version>1.1</commons-text.version>
         <commons-beanutils.version>1.9.3</commons-beanutils.version>
@@ -617,16 +617,16 @@
         <assertj.version>3.6.2</assertj.version>
         <jsonassert.version>1.5.0</jsonassert.version>
         <javers.version>3.1.0</javers.version>
-        <jetty.version>9.4.3.v20170317</jetty.version>
+        <jetty.version>9.4.39.v20210325</jetty.version>
         <httpclient.version>4.5.3</httpclient.version>
-        <commons.io.version>2.5</commons.io.version>
+        <commons.io.version>2.7</commons.io.version>
         <commons.dbutils.version>1.6</commons.dbutils.version>
         <h2.version>1.4.196</h2.version>
-        <jetty.version>9.4.2.v20170220</jetty.version>
+        <jetty.version>9.4.39.v20210325</jetty.version>
         <httpclient.version>4.5.3</httpclient.version>
-        <commons.io.version>2.5</commons.io.version>
-        <flink.version>1.2.0</flink.version>
-        <jackson.version>2.8.5</jackson.version>
+        <commons.io.version>2.7</commons.io.version>
+        <flink.version>1.9.3</flink.version>
+        <jackson.version>2.8.6</jackson.version>
         <neuroph.version>2.92</neuroph.version>
         <serenity.version>1.4.0</serenity.version>
         <serenity.jbehave.version>1.24.0</serenity.jbehave.version>
@@ -648,7 +648,7 @@
         <streamex.version>0.6.5</streamex.version>
         <vavr.version>0.9.0</vavr.version>
         <geotools.version>15.2</geotools.version>
-        <retrofit.version>2.3.0</retrofit.version>
+        <retrofit.version>2.5.0</retrofit.version>
         <joda-time.version>2.9.9</joda-time.version>
         <hirondelle-date4j.version>1.5.1</hirondelle-date4j.version>
 		<protonpack.version>1.14</protonpack.version>
