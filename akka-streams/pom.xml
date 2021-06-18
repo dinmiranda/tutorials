@@ -24,7 +24,7 @@
         </dependency>
     </dependencies>
     <properties>
-        <akkastreams.version>2.5.2</akkastreams.version>
+        <akkastreams.version>2.5.16</akkastreams.version>
     </properties>
 
 </project>
