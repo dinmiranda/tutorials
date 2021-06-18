@@ -16,8 +16,8 @@
 
     <properties>
         <http-component-version>4.4.6</http-component-version>
-        <drools-version>7.1.0.Beta2</drools-version>
-        <apache-poi-version>3.13</apache-poi-version>
+        <drools-version>7.32.0.k20191220</drools-version>
+        <apache-poi-version>4.1.1</apache-poi-version>
     </properties>
 
     <dependencies>
@@ -63,7 +63,7 @@
         <dependency>
             <groupId>org.springframework</groupId>
             <artifactId>spring-core</artifactId>
-            <version>4.3.6.RELEASE</version>
+            <version>4.3.14.RELEASE</version>
         </dependency>
 
     </dependencies>
