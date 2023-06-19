@@ -19,7 +19,7 @@
         <spring-data-redis>1.8.1.RELEASE</spring-data-redis>
         <cglib.version>3.2.4</cglib.version>
         <jedis.version>2.9.0</jedis.version>
-        <nosqlunit.version>0.10.0</nosqlunit.version>
+        <nosqlunit.version>0.13.1</nosqlunit.version>
     </properties>
 
     <dependencies>
