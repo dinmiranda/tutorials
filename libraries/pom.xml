@@ -654,6 +654,6 @@
 		<protonpack.version>1.14</protonpack.version>
         <unit-ri.version>1.0.3</unit-ri.version>
         <cache.version>1.0.0</cache.version>
-    	<hazelcast.version>3.8.4</hazelcast.version>
+    	<hazelcast.version>5.3.5</hazelcast.version>
     </properties>
 </project>
